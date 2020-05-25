@@ -1,4 +1,4 @@
-package com.dfa.flutterchatdemo;
+package com.rehan.flutterchatdemo;
 
 import io.flutter.app.FlutterApplication;
 import io.flutter.plugin.common.PluginRegistry;

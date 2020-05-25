@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "347976604232",
-    "firebase_url": "https://flutterchatdemo.firebaseio.com",
-    "project_id": "flutterchatdemo",
-    "storage_bucket": "flutterchatdemo.appspot.com"
+    "project_number": "920605472665",
+    "firebase_url": "https://chatapp-15120.firebaseio.com",
+    "project_id": "chatapp-15120",
+    "storage_bucket": "chatapp-15120.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:347976604232:android:5e864cb592d93aaa",
+        "mobilesdk_app_id": "1:920605472665:android:3966deb0fb0e687e2b8508",
         "android_client_info": {
-          "package_name": "com.dfa.flutterchatdemo"
+          "package_name": "com.rehan.flutterchatdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "347976604232-k6p3475tsg23qhdgtdjqlb952udl5p9g.apps.googleusercontent.com",
+          "client_id": "920605472665-hrg0ht4hgamrcdiec19eoj4dk4p5ldr7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBoAoZZDb5Mzf8C8WUU6r9WHZvFWmusGN8"
+          "current_key": "AIzaSyDWZd2XZgWhoPvUCWkcy2QFcWPU93YdCNU"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920605472665-hrg0ht4hgamrcdiec19eoj4dk4p5ldr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
